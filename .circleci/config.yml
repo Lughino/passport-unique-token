@@ -79,7 +79,7 @@ node_12: &node_12
 
 node_14: &node_14
   docker:
-    - image: circleci/node:14.15.4
+    - image: circleci/node:14.16.0
 
 version: 2
 jobs:
